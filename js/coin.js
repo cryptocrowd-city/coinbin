@@ -10,9 +10,9 @@
 	var coinjs = window.coinjs = function () { };
 
 	/* public vars */
-	coinjs.pub = 0x137;
-	coinjs.priv = 0x142;
-	coinjs.multisig = 0x240;
+	coinjs.pub = 0x89;
+	coinjs.priv = 0x8E;
+	coinjs.multisig = 0xF0;
 	coinjs.hdkey = {'prv':0x043587cf, 'pub':0x04358394};
 	coinjs.bech32 = {'charset':'qpzry9x8gf2tvdw0s3jn54khce6mua7l', 'version':0, 'hrp':'xcrctn'};
 
