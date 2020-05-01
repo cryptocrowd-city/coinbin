@@ -13,14 +13,14 @@
 /* Mainnet
 	coinjs.pub = 0x4B;
 	coinjs.priv = 0x50;
-	coinjs.multisig = 0x8C;
+	coinjs.multisig = 0x4E;
 	coinjs.hdkey = {'prv':0x0488e4ad, 'pub':0x04881eb2};
 	coinjs.bech32 = {'charset':'qpzry9x8gf2tvdw0s3jn54khce6mua7l', 'version':0, 'hrp':'xcrc'};
 */
 /* Testnet */
 	coinjs.pub = 0x89;
 	coinjs.priv = 0x8E;
-	coinjs.multisig = 0xF0;
+	coinjs.multisig = 0x8C;
 	coinjs.hdkey = {'prv':0x043587cf, 'pub':0x04358394};
 	coinjs.bech32 = {'charset':'qpzry9x8gf2tvdw0s3jn54khce6mua7l', 'version':0, 'hrp':'xcrctn'};
 /**/
